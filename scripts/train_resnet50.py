@@ -1,0 +1,1 @@
+# Placeholder script for training ResNet50 model
