@@ -1,2 +1,3 @@
-# Alzheimer-WPBDELM
-Deep ensemble learning for early Alzheimer's Disease diagnosis using MRI images.
+# Alzheimer's Disease Diagnosis Using Deep Learning
+
+This project implements a Weighted Probability-Based Deep Ensemble Learning Method (WPBDELM)...
